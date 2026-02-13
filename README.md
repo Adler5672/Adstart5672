@@ -16,13 +16,13 @@
 
 ## 🔥 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adler5672&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?user=Adler5672&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adler5672&theme=dark&hide_border=false"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adler5672&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Adler5672&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 ## 🛠️ My Skills
